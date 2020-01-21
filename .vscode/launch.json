@@ -9,6 +9,13 @@
             "name": "CodeLens (Launch) - AplicacionCalculadora",
             "request": "launch",
             "mainClass": "app.Calculadora.AplicacionCalculadora",
+            "projectName": "Calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AplicacionCalculadora",
+            "request": "launch",
+            "mainClass": "app.Calculadora.AplicacionCalculadora",
             "projectName": "FirstSteps"
         },
         {
